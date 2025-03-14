@@ -1,4 +1,4 @@
-# learn-data-analysis
+# gen-ai-fundamentals
 This repository contains projects on my Dataquest learning path, for generative AI.
 
 ## Instructions
